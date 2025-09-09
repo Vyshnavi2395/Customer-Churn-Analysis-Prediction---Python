@@ -3,11 +3,11 @@ Customer churn occurs when a customer stops using a company’s service lead to 
 
 Structure:
 Customer Churn Analysis Prediction - Python/
-│
-├── data->Telco-Customer-Churn.csv                 # Dataset file
-├── scripts->churn_analysis.py                        # Main Python script
-├── churn_distribution.png                       # Visualization 1
-├── confusion_matrix.png                         # Visualization 2
-├── feature_importance.png                       # Visualization 3
-│
-└── README.md (optional)                         # Project documentation
+data/
+Telco-Customer-Churn.csv                 # Dataset file
+ scripts/
+ churn_analysis.py                        # Main Python script
+ churn_distribution.png                       # Visualization 1
+ confusion_matrix.png                         # Visualization 2
+ feature_importance.png                       # Visualization 3
+README.md (optional)                         # Project documentation
